@@ -1,4 +1,4 @@
-// Explaining rebase in the git
+// Explaining rebase in the
 
 const func2 = () => {
     return <></>
